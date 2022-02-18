@@ -2,16 +2,89 @@
     {
       "id": 1,
       "username": "user1",
-      "name": "สมศักดิ์ doe"
+      "name_th": "ธนบดี เป็งวังผูก",
+      "name_en": "thanabodee phengwonpuk",
+      "personal_type":"พนังงานชั่วคราว",
+      "work_type":"สายสนับสนุน",
+      "work_position":"ช่างเทคนิค",
+      "academic_position ":"ตำแหน่งทางวิชาการ",
+      "director_postion":"ตำแหน่งบริหาร",
+      "work_start":"14 สิงหาคม 2561",
+      "work_placement":"5 สิงหาคม 2561",
+      "work_status":"สถานะปฎิบัติงาน",
+      "birthday":"วันเกิด",
+      "nationality":"สัญชาติ",
+      "religion":"ศาสนา",
+      "phone":"เบอร์โทร",
+      "email_up":"61xxxxxx@up.ac.th",
+      "email":"NoNuy@gmail.com",
+      "address":"50290 สันทราย เชียงใหม่"
+
     },
     {
       "id": 2,
       "username": "user2",
-      "name": "สรรหำน้อย"
+      "name_th": "สร้างสรร สกุลเพชรทองคำ",
+      "name_en": "sangtsan sakulphettongkam",
+      "personal_type":"พนังงานชั่วคราว",
+      "work_type":"สายสนับสนุน",
+      "work_position":"ฝ่ายธุรการ",
+      "academic_position ":"ตำแหน่งทางวิชาการ",
+      "director_postion":"ตำแหน่งบริหาร",
+      "work_start":"18 มีนาคม 2562",
+      "work_placement":"วันที่บรรจุ",
+      "work_status":"สถานะปฎิบัติงาน",
+      "birthday":"16 ธันวาคม 2562",
+      "nationality":"สัญชาติ",
+      "religion":"ศาสนา",
+      "phone":"เบอร์โทร",
+      "email_up":"61xxxxxx@up.ac.th",
+      "email":"Santi@gmail.com",
+      "address":"50290 สันทราย เชียงใหม่"
+
     },
     {
       "id": 3,
       "username": "user3",
-      "name": "โอมโครย"
+      "name_th": "นรินทร์ ชัยกุล",
+      "name_en": "narin chiyakul",
+      "personal_type":"พนังงานประจำ",
+      "work_type":"สายสนับสนุน",
+      "work_position":"ช่างเทคนิคเฉพาะทาง",
+      "academic_position ":"ตำแหน่งทางวิชาการ",
+      "director_postion":"ตำแหน่งบริหาร",
+      "work_start":"4 มกราคม 2561",
+      "work_placement":"15 มกราคม 2561",
+      "work_status":"สถานะปฎิบัติงาน",
+      "birthday":"วันเกิด",
+      "nationality":"สัญชาติ",
+      "religion":"ศาสนา",
+      "phone":"เบอร์โทร",
+      "email_up":"61xxxxxx@up.ac.th",
+      "email":"YoungOhm@outlook.com",
+      "address":"เชียงราย"
+      
+    },
+    {
+      "id": 4,
+      "username": "user4",
+      "name_th": "ทดสอบ หัวข้อข้อมูล",
+      "name_en": "Test Data",
+      "personal_type":"ประเภทบุคลากร",
+      "work_type":"สายงาน",
+      "work_position":"ตำแหน่งงาน",
+      "academic_position ":"ตำแหน่งทางวิชาการ",
+      "director_postion":"ตำแหน่งบริหาร",
+      "work_start":"วันที่เริ่มทำงาน",
+      "work_placement":"วันที่บรรจุ",
+      "work_status":"สถานะปฎิบัติงาน",
+      "birthday":"วันเกิด",
+      "nationality":"สัญชาติ",
+      "religion":"ศาสนา",
+      "phone":"เบอร์โทร",
+      "email_up":"อีเมลล์มหาลัย",
+      "email":"อีเมลล์ส่วนตัว",
+      "address":"ที่อยู่"
+      
     }
   ]
